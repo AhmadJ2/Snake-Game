@@ -1,11 +1,13 @@
-**********************************RUNNING THE PROGRAM****************************
+*-*************************************RUNNING THE PROGRAM*************************************-*
 
 1- Place the Dev folder inside your C drive
+
 2- The exe is inside Dev/Engin.../
+
 2- Done! Enjoy :)
 
 
-**********************************ABOUT THE GAME*********************************
+*-**********************************ABOUT THE GAME**********************************-*
 
 	This is a snake clicking game, your goal is to click on bouncing balls as fast as you can and eat all of them without touching the bombs!
 
